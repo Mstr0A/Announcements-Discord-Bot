@@ -19,6 +19,7 @@ pip install -r requirements.txt
 
 ## How to use
 In the main.py file there are a couple of fields that you should change and fill then run the file normally with: 
+
 On Windows:
 ```
 python main.py
