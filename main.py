@@ -22,6 +22,9 @@ database = ''
 
 TOKEN = "INSERT TOKEN"
 
+general_channel_id = 123
+admin_channel_id = 456
+
 new_challenges = set()
 
 new_chall_data = []
@@ -86,9 +89,6 @@ emojis = ['👽','🔥']
 
 @tasks.loop(seconds=60)
 async def check_new_chall():
-    general_channel_id = 123
-    admin_channel_id = 456
-
     new_chall_entries = await get_new_chall()
     
     general_channel = client.get_channel(general_channel_id)
