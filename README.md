@@ -3,8 +3,11 @@
 This bot made in python using the [discord.py](https://pypi.org/project/discord.py/) module checks your database for new challenges and announces them on the channels of your choice for your convenience
 
 The bot posts to 2 (Two) seperate channels:
+
 An admin channel: Where the bot can post extra information about the subject (In this case challenges) for the admins to make their lives slightly easier
+
 A general channel: Where the bot posts the announcements for all the members to see
+
 (The code can be modified and adjusted to suite your needs)
 
 ## Requirements
