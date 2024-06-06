@@ -32,7 +32,7 @@ python3 main.py
 
 Or 
 ```
-nohup python script.py > output.log &
+nohup python main.py > output.log &
 ```
 This will keep the bot running in the background on your server even after your session ends (the logs and errors will be stored in "output.log")
 
