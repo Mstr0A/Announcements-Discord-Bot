@@ -63,4 +63,6 @@ The ID of the channel where you want the announcements to happen
 And lastly don't forget to change the admin and general messages you want to send to your server(s)
 
 ## Credits
-Made by: [Mstr0A](https://github.com/Mstr0A) (Me)
+Made by: [Mstr0A](https://github.com/Mstr0A)
+
+[Support me?](https://ko-fi.com/mstr0a)
