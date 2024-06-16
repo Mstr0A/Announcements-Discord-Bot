@@ -1,3 +1,5 @@
 discord
 aiohttp
 pymysql
+asyncio
+aiohttp
